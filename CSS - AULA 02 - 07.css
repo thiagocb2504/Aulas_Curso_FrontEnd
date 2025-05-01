@@ -5,9 +5,8 @@
 
 h1{
     text-align: center;
-    border: 7px solid white;
-    border-radius: 50px;
-    border-width: 7px;
+    border: 10px solid white;
+    border-radius: 60px;
 }
 
 body{
@@ -18,4 +17,9 @@ div{
     background-color: #476ecc;
     width: 400px;
     height: 400px;
+    margin: 50px auto;
+}
+
+h1,p{
+    padding: 30px, 50px;
 }
